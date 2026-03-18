@@ -48,4 +48,4 @@ The purpose of this project is to practice SQL querying and understand how SQL c
 
 ## Notes
 
-The database used is the Chinook sample database. Some queries are designed for learning and demonstration purposes.
+The database used is the Chinook sample database. Just for my learning purposes only.
